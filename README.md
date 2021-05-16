@@ -10,7 +10,7 @@ This is a quick Node.JS app that creates a README.md based on user prompts. This
 * [Usage](#Usage)
 * [License](#License)
 * [Credits](#Credits)
-* [Test instructions](#TestInstructions)
+* [Test instructions](#Test-Instructions)
 * [Questions](#Questions)
 
 ## Installation
