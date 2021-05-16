@@ -34,7 +34,7 @@ It will prompt you to enter the sections of the README.md file to create:
 
 Check the app working here:
 
-![Watch the app in action](https://drive.google.com/file/d/1Q31AQOBvszRTV4haOjXnZOjeFo-YuY87/preview)
+[![Watch the app in action](./assets/images/readme_js_2.png)](https://drive.google.com/file/d/1Q31AQOBvszRTV4haOjXnZOjeFo-YuY87/preview)
 
 ## License
 
