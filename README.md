@@ -7,9 +7,11 @@ This is a quick Node.JS app that creates a README.md based on user prompts. This
 
 ## Table of Contents
 * [Installation](#Installation)
-* [Usage](##Usage)
-* [Credits](##Credits)
-* [License](##License)
+* [Usage](#Usage)
+* [License](#License)
+* [Credits](#Credits)
+* [Test instructions](#TestInstructions)
+* [Questions](#Questions)
 
 ## Installation
 The full logic is contained in the readme.js file. In order to run this file, you'll need to download it and run it via command line:
