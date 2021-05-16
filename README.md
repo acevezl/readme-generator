@@ -34,7 +34,7 @@ It will prompt you to enter the sections of the README.md file to create:
 
 Check the app working here:
 
-<iframe src="https://drive.google.com/file/d/1Q31AQOBvszRTV4haOjXnZOjeFo-YuY87/preview" width="640" height="480"></iframe>
+![Watch the app in action](https://drive.google.com/file/d/1Q31AQOBvszRTV4haOjXnZOjeFo-YuY87/preview)
 
 ## License
 
